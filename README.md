@@ -7,8 +7,8 @@ About
 
 This repository holds Sphinx source files for http://jubat.us/ website.
 
-Contributions are always welcomed, from tiny typos to enhancements.
-Feel free to make pull-requests to this repository.
+Contributions are always welcomed, from tiny typos to new enhancements.
+Feel free to make pull-requests to this updated repository.
 
 
 Requirements
